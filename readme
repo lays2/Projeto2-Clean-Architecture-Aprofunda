@@ -1,0 +1,18 @@
+# 📚 Projeto2-Clean-Architecture-Aprofunda
+
+## 🧾 Descrição
+API simples desenvolvida em Node.js com TypeScript e Express, estruturada com o padrão **Clean Architecture**. A aplicação permite **criar** e **listar textos** com os campos: título, conteúdo, autor e status. Os dados são armazenados em memória.
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- Node.js
+- TypeScript
+- Express
+- UUID
+- CORS
+- ts-node-dev
+- Clean Architecture (estrutura de pastas organizada)
+
+---
